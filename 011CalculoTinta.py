@@ -1,0 +1,1 @@
+#ler a altura e largura de uma parede, calcular a sua área e descobrir quantos litros de tinta serão necessários, assumindo que cada litro pinte 2m²
