@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonExerciciosCEV.iml" filepath="$PROJECT_DIR$/.idea/PythonExerciciosCEV.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../curso python/.idea/curso python.iml" filepath="$PROJECT_DIR$/../curso python/.idea/curso python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonBasico.iml" filepath="$PROJECT_DIR$/.idea/PythonBasico.iml" />
     </modules>
   </component>
 </project>

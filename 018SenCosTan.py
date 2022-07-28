@@ -1,0 +1,1 @@
+#Ler um ângulo qualquer e mostrar o seno, cosseno e tangente desse ângulo
